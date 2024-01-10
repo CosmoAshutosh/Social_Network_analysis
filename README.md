@@ -11,7 +11,7 @@ This repository contains a Python script for performing Social Network Analysis 
 ## Dataset
 
 The script loads three datasets:
-# Dataset is take from: https://snap.stanford.edu/data/
+### Dataset is take from: https://snap.stanford.edu/data/
 
 1. Congress network: Representing relationships between members of Congress.
 2. Facebook friendship network: Representing friendships between Facebook users.
